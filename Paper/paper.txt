@@ -1,0 +1,46 @@
+1) https://www.sciencedirect.com/science/article/pii/S0022435916300872
+
+CASE STUDY : Customer Classification and Market Basket Analysis Using K-Means Clustering and Association Rules: Evidence from Distribution Big Data of Korean Retailing Company. (Optional)
+
+ML in retail.
+A Domain-Oriented Analysis of the Impact of Machine Learning—The Case of Retailing
+Citation : 6
+
+The future of retailing 
+Citation 398
+
+For specific K-means algorithm.
+A) A Clustering Method Based on K-Means Algorithm.
+Citation : 20
+ 
+B) Grouping of Retail Items by Using K-Means Clustering. 
+Citation : 16
+
+C) Customer Segmentation Using Clustering and Data Mining Techniques.
+citation : 17
+
+D) An Approach to Customer Classification using k-means.
+Citation : 0
+
+E) Application of K means algorithm for efficicnet customer segment strategy for targeted customer services.
+Citation : 9
+
+No exact paper available for customer classification or K-means.
+
+
+For 4th sem review.
+New domain so no more citation.
+A) Sales Demand forecast in E-commerce using a LSTM methodolgy.
+Based paper for lstm
+Citation : 0
+release in 2019 (recent).
+
+B) Sales forecasting using multivariate long short term memory network models
+based paper.
+Citation : 9
+release in may 2019.
+
+
+https://blog.nirida.ai/predicting-e-commerce-consumer-behavior-using-recurrent-neural-networks-36e37f1aed22
+
+https://www.emerald.com/insight/content/doi/10.1108/IMDS-03-2019-0170/full/html
