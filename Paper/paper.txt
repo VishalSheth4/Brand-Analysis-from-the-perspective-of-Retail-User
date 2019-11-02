@@ -3,7 +3,7 @@
 CASE STUDY : Customer Classification and Market Basket Analysis Using K-Means Clustering and Association Rules: Evidence from Distribution Big Data of Korean Retailing Company. (Optional)
 
 ML in retail.
-A Domain-Oriented Analysis of the Impact of Machine Learning—The Case of Retailing
+A Domain-Oriented Analysis of the Impact of Machine Learningâ€”The Case of Retailing
 Citation : 6
 
 The future of retailing 
@@ -42,5 +42,5 @@ release in may 2019.
 
 
 https://blog.nirida.ai/predicting-e-commerce-consumer-behavior-using-recurrent-neural-networks-36e37f1aed22
-
+https://towardsdatascience.com/predicting-sales-611cb5a252de
 https://www.emerald.com/insight/content/doi/10.1108/IMDS-03-2019-0170/full/html
